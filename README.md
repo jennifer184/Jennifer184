@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jennifer
-- 🌱 I’m currently working a Python project to help me understand building packages of my own, automation, and of course try out neat APIs like Google's text-to-talk (gtts)
+- 🌱 I’m currently working a Python project to help me understand building packages of my own, automation, and of course trying out neat APIs like Google's text-to-talk (gtts)
 - 👀 Next, I'll be trying out the Selenium Testing Framework I was introduced to in CS 415!
 
 <!---
