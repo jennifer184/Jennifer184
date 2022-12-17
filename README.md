@@ -16,6 +16,6 @@ About Me
 * Trip Planning Web App - 4 Month Group Project 
 <br><img src="/images/trip-planner.gif"  width=25% height=25%>
 
-* Remote Cat Feeder with Webcam using Raspberry Pi
+* IoT Remote Cat Feeder with Webcam using Raspberry Pi
 <img src="/images/pet_feeder.png"  width=40% height=40%>
 <!-- ![base](/images/pet_feeder.png) -->
