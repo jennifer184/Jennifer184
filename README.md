@@ -10,7 +10,7 @@ About Me
 * 🎓 Studying Computer Science at Colorado State University
  
  ## List of Projects:
- * Apache Commons Lang Regression Testing Time and Suite Reduction - Group Project:
+ * Regression Testing Time and Suite Reduction for Apache Commons Lang - Group Project:
 <!-- <br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png) -->
 <br><img src="/images/graphTestSuite.png"  width=40% height=40%><img src="/images/graphTestTime.png"  width=40% height=40%>
 * Trip Planning Web App - 4 Month Group Project 
