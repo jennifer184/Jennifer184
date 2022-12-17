@@ -17,6 +17,5 @@ About Me
 ![base](/images/pet_feeder.png)
 
 * Apache Commons Lang Regression Testing Time and Suite Reduction - Group Project:
-![base](/images/graphTestSuite.png)
-![base](/images/graphTestTime.png)
+<br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png)
 
