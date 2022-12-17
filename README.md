@@ -19,3 +19,6 @@ About Me
 * IoT Remote Cat Feeder with Webcam using Raspberry Pi
 <img src="/images/pet_feeder.png"  width=40% height=40%>
 <!-- ![base](/images/pet_feeder.png) -->
+
+* Windows Media Weather Reader 
+<img src="/images/weather_app.jpg"  width=40% height=40%>
