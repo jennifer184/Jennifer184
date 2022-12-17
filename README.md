@@ -10,12 +10,12 @@ About Me
 * 🎓 Studying Computer Science at Colorado State University
  
  ## List of Projects:
-* Trip Planning Web App - 4 Month Group Project
-![base](/images/trip-planner.gif)
+ * Apache Commons Lang Regression Testing Time and Suite Reduction - Group Project:
+<!-- <br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png) -->
+<br><img src="/images/graphTestSuite.png"  width=40% height=40%><img src="/images/graphTestTime.png"  width=40% height=40%>
+* Trip Planning Web App - 4 Month Group Project 
+<br><img src="/images/trip-planner.gif"  width=25% height=25%>
 
 * Remote Cat Feeder with Webcam using Raspberry Pi
-![base](/images/pet_feeder.png)
-
-* Apache Commons Lang Regression Testing Time and Suite Reduction - Group Project:
-<br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png)
-
+<img src="/images/pet_feeder.png"  width=40% height=40%>
+<!-- ![base](/images/pet_feeder.png) -->
