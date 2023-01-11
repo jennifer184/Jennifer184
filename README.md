@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 About Me 
 * 🎓 Studying Computer Science at Colorado State University
  
+<img src="/images/rock.png"  width=40% height=40%>
+<img src="/images/paper.png"  width=40% height=40%>
+<img src="/images/scissors.png"  width=40% height=40%>
+ 
  ## List of Projects:
  * Regression Testing Time and Suite Reduction for Apache Commons Lang - Group Project:
 <!-- <br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png) -->
