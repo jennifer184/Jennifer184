@@ -7,11 +7,17 @@ You can click the Preview link to take a look at your changes.
 # Jennifer
 
 About Me 
-* 🎓 Studying Computer Science at Colorado State University
+* 🎓 Studying Computer Science at Colorado State University 
+
+## Let's play Rock-Paper-Scissors: (in progress)
+<center>
+ Pick a hand to play 
  
-<img src="/images/rock.png"  width=40% height=40%>
-<img src="/images/paper.png"  width=40% height=40%>
-<img src="/images/scissors.png"  width=40% height=40%>
+| Rock | Paper | Scissors |
+|:----:|:-----:|:----------:|
+| <img src="/images/rock.png"  width=25% height=25%> | <img src="/images/paper.png"  width=25% height=25%> | <img src="/images/scissors.png"  width=25% height=25%> |
+ 
+</center>
  
  ## List of Projects:
  * Regression Testing Time and Suite Reduction for Apache Commons Lang - Group Project:
