@@ -59,12 +59,11 @@ About Me:
  <img src="/images/pet_feeder.png" align="right" width=40% height=40%>
  <h4>IoT Remote Cat Feeder with Webcam using Raspberry Pi</h4>
  A personal fun project to feed my cats breakfast and dinner so I didn't have to. I added a 
- remote feeding feature paired with a webcam to help me decide on the optimal the amount of 
+ remote feeding feature paired with a webcam to help me decide on the optimal amount of 
  food to deliver them. This little project allowed my to go on small trip while not having 
  to board them or hire anyone since I could monitor their food, water, litter, and make 
  adjustments remotely. (Python, hardware, Bash, Yawcam)
 </div>
-
 </br>
 </br>
 </br>
