@@ -21,12 +21,24 @@ About Me:
 </center>
 </details>
  <details><summary><h3> List of Projects </h3></summary>
- * Regression Testing Time and Suite Reduction for Apache Commons Lang - Group Project:
-<!-- <br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png) -->
-<br><img src="/images/graphTestSuite.png"  width=40% height=40%><img src="/images/graphTestTime.png"  width=40% height=40%>
  
-* Trip Planning Web App - 4 Month Group Project 
-<br><img src="/images/trip-planner.gif"  width=25% height=25%>
+<h4> Test analysis on Apache Commons Lang API Project </h4>
+
+ <div align="right">
+  <img src="/images/graphTestSuite.png" align="left" width=30% height=30%>
+  <img src="/images/graphTestTime.png" align="left" width=30% height=30%>
+ </div> 
+ A 4 month group project where we developed new tests, added auto generated test, and researched which regression tool worked best at bringing time and number of total tests requried to run after changes were made. 
+ (Java, JUnit, Python, git, PIT, Maven, Randoop, EvoSuite, Ekstazi, HyRts)
+ </div>
+ 
+ 
+
+ <div>
+  <h4> Mobile Trip Planning App Project </h4>
+  <img src="/images/trip-planner.gif" align="left" width=25% height=25%>
+   A 4 month project with a group of 5, we added additional functionaly
+ </div>
 
 * IoT Remote Cat Feeder with Webcam using Raspberry Pi
 <img src="/images/pet_feeder.png"  width=40% height=40%>
