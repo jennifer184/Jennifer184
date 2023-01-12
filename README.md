@@ -69,7 +69,7 @@ About Me:
 <div>
  <img src="/images/weather_app.jpg" align="left" width=40% height=40%>
  <h4> Windows Media Weather Reader </h4>
- A personal fun project that when run from the terminal will launch a Windows Media Player 
+ A personal fun project that when ran from the terminal, will launch a Windows Media Player 
  and read the current weather in your given location. (Python, Text-to-Talk gtts, html parser BeautifulSoup, request to get url)
 </div>
 
