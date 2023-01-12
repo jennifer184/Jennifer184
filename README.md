@@ -11,20 +11,20 @@ You can click the Preview link to take a look at your changes.
 About Me:
 * 🎓 Studying Computer Science at Colorado State University 
 
-## Let's play Rock-Paper-Scissors:
+<details><summary><h3> Let's play Rock-Paper-Scissors</h3></summary>
 <center>
  Pick a hand to play 
  
 | Rock | Paper | Scissors |
 |:----:|:-----:|:----------:|
 | <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
- 
 </center>
- 
- ## List of Projects:
+</details>
+ <details><summary><h3> List of Projects </h3></summary>
  * Regression Testing Time and Suite Reduction for Apache Commons Lang - Group Project:
 <!-- <br>![base](/images/graphTestSuite.png)![base](/images/graphTestTime.png) -->
 <br><img src="/images/graphTestSuite.png"  width=40% height=40%><img src="/images/graphTestTime.png"  width=40% height=40%>
+ 
 * Trip Planning Web App - 4 Month Group Project 
 <br><img src="/images/trip-planner.gif"  width=25% height=25%>
 
@@ -34,3 +34,4 @@ About Me:
 
 * Windows Media Weather Reader 
 <img src="/images/weather_app.jpg"  width=40% height=40%>
+</details>
