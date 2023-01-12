@@ -52,7 +52,6 @@ About Me:
  </br>
   </br>
  </br>
-  </br>
 
  <!-- Cat Feeder Project -->
 <div>
@@ -62,9 +61,8 @@ About Me:
  remote feeding feature paired with a webcam to help me decide on the optimal amount of 
  food to deliver them. This little project allowed my to go on small trip while not having 
  to board them or hire anyone since I could monitor their food, water, litter, and make 
- adjustments remotely. (Python, hardware, Bash, Yawcam)
+ adjustments remotely. (Python, hardware, Bash, Yawcam, Remote SSH)
 </div>
-</br>
 </br>
 </br>
 <!-- Weather app -->
