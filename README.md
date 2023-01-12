@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 About Me 
 * 🎓 Studying Computer Science at Colorado State University 
 
-## Let's play Rock-Paper-Scissors: (in progress)
+## Let's play Rock-Paper-Scissors:
 <center>
  Pick a hand to play 
  
 | Rock | Paper | Scissors |
 |:----:|:-----:|:----------:|
-| <img src="/images/rock.png"  width=25% height=25%> | <img src="/images/paper.png"  width=25% height=25%> | <img src="/images/scissors.png"  width=25% height=25%> |
+| <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
  
 </center>
  
