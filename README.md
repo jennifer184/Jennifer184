@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Jennifer <img align="right" width="150" height="150" src="/images/octcat-rotate.gif"> 
+# Jennifer <img align="right" width="150" height="150" src="/images/octocat-rotate.gif"> 
 
 About Me:
 * 🎓 Studying Computer Science at Colorado State University 
