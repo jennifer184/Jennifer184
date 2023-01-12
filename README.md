@@ -4,9 +4,11 @@
 Jennifer184/Jennifer184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Jennifer
 
-About Me 
+
+# Jennifer <img align="right" width="150" height="150" src="/images/octcat-gif.gif"> 
+
+About Me:
 * 🎓 Studying Computer Science at Colorado State University 
 
 ## Let's play Rock-Paper-Scissors:
