@@ -17,7 +17,7 @@ About Me:
  
 | Rock | Paper | Scissors |
 |:----:|:-----:|:----------:|
-| <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
+| <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/3"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
 </center>
 </details>
  <details><summary><h3> List of Projects </h3></summary>
