@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 About Me:
 * 🎓 Studying Computer Science at Colorado State University 
 
-<details><summary><h3> Let's play Rock-Paper-Scissors</h3></summary>
+<details><summary><h3> Let's play Rock-Paper-Scissors  &nbsp  &nbsp</h3><img align="center" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Rock%20Paper%20Scissor%27s%20Game&query=status&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=3600"></summary>
 
  Pick a hand to play 
  
@@ -19,7 +19,6 @@ About Me:
 |:----:|:-----:|:----------:|
 | <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/3"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
 
-<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Rock%20Paper%20Scissor%27s&prefix=Outcome%3A%20&query=outcome&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=15">
 
 </details>
  <details><summary><h3> List of Projects </h3></summary>
