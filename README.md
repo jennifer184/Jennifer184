@@ -22,13 +22,13 @@ About Me:
 
 </details>
  <details><summary><h3> List of Projects </h3></summary>
+ 
+  <!-- Testing Project -->
  <div align="right">
-  <img src="/images/graphTestSuite.png" align="left" width=30% height="215px">
-  <img src="/images/graphTestTime.png" align="left" width=30% height="215px">
+  <img src="/images/graphTestSuite.png" align="left" width=30% height="215px"><img src="/images/graphTestTime.png" align="left" width=30% height="215px">
   <div align="left">
   <h4> Test analysis on Apache Commons Lang API Project </h4>
- A 4 month group project where we developed new tests, added auto generated test, and researched which regression tool worked best at bringing time and number of total tests requried to run after changes were made. Ekstazi ran fewer test after changes but HyRts ran faster.
- (Java, JUnit, Python, git, PIT, Maven, Randoop, EvoSuite, Ekstazi, HyRts)
+ A 4 month group project where we developed new unit tests, added auto generated test, and researched which regression tools worked best at bringing down the total time and number of tests requried to run after changes were made. Ekstazi ran fewer test after changes but HyRts ran faster. (Java, JUnit, Python, git, PIT, Maven, Randoop, EvoSuite, Ekstazi, HyRts)
   </div></div>
  
   <!-- Trip Planning App Project -->
@@ -37,7 +37,7 @@ About Me:
     <div align="right">
      <div align="left">
       <h4> Mobile Trip Planning App Project </h4>
-      A 4 month project with a group of 5, where we added full functionality. We added a drag and drop trip planner, optimize trip distance, sped up client/server           communication, added the ability to add svg trip plan or download a trip. (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation)
+      A 4 month project with a group of 5, where we added new features to bring the app to full functionality. I implemented a dynamicly populated list of places choosen by the user to create a trip planner and later converted it to a drag and drop list. Additionaly, I added the ability to upload and download the trip in a svg map with corditinates and lines to represent the total path of the users trip. For the back-end, I helped optimize the trip distance, and sped up client/server communication to under 1 second by troubleshooting with Postman . (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation, Postman)
      </div>
    </div>
   </div>
