@@ -12,7 +12,7 @@ About Me:
 * 🎓 Studying Computer Science at Colorado State University 
 
 <!-- Rock paper scissors game -->
-<details><summary><h3> Let's play Rock-Paper-Scissors  &nbsp  &nbsp</h3><img align="center" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Rock%20Paper%20Scissor%27s%20Game&query=status&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=3600"></summary>
+<details><summary><h3> Let's play Rock-Paper-Scissors  &nbsp  &nbsp</h3><img align="center" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Rock%20Paper%20Scissors&query=status&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=3600"></summary>
 
  Pick a hand to play 
  
