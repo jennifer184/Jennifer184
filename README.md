@@ -23,6 +23,10 @@ About Me:
  <!-- List of Projects -->
 </details>
  <details><summary><h3> List of Projects </h3></summary>
+ <!-- github game -->
+ <div>
+  <img src="/images/game_screenshot.png" align="right" width=25% height=25%><h4> Github Game </h4> A personal project inspired by quick a youtube video ( https://www.youtube.com/watch?v=0TTpXDYnAg8), This was a difficult project to recreate becasue the starter code did not work and there were huge gaps in the actual implementation. After building a simple functional web app hosted by PythonAnywhere, I upped the ante and refactored the code to meet the object oriented paradigm, and included custom html pages to show what hand the player chose v.s. the computer. I was also fusturated with running into games that didn't work, so implemented a custom Github badge using Shields.io that would let the player know that this game was up and working. To do this, the app additionaly updates a json that the badge can refer to every hour and display on my Github readme. (Python, css, html, Json, PythonAnywhere, Shields.io)
+ </div>
   <!-- Testing Project -->
  <div align="right">
   <img src="/images/graphTestSuite.png" align="left" width=30% height="215px"><img src="/images/graphTestTime.png" align="left" width=30% height="215px">
@@ -46,7 +50,6 @@ About Me:
  </br>
  </br>
  </br>
- </br> 
  </br>
  </br>
  </br>
@@ -60,7 +63,6 @@ About Me:
  to board them or hire anyone since I could monitor their food, water, litter, and make 
  adjustments remotely. (Python, hardware, Bash, Yawcam, Remote SSH)
 </div>
-</br>
 </br>
 </br>
 <!-- Weather app -->
