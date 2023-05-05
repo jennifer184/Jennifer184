@@ -8,8 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 # Jennifer <img align="right" width="150" height="150" src="/images/octocat-rotate.gif"> 
 
-About Me:
-* 🎓 Studying Computer Science at Colorado State University 
+<h3>About Me:</h3>
+<div>🎓 Studying Computer Science at &nbsp <img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="425"></div>
+
 
 <!-- Rock paper scissors game -->
 <details><summary><h3> Let's play Rock-Paper-Scissors  &nbsp  &nbsp</h3><img align="center" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Rock%20Paper%20Scissors&query=status&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=3600"></summary>
