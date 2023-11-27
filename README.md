@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div>🎓 Studying Computer Science at &nbsp <img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="425"></div>
 
 
-<!-- Rock paper scissors game -->
+<!-- Rock paper scissors game 
 <details><summary><h3> Let's play Rock-Paper-Scissors  &nbsp  &nbsp</h3><img align="center" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Rock%20Paper%20Scissors&query=status&url=https%3A%2F%2Fjennifer184.pythonanywhere.com%2Foutcome.json?cacheSeconds=3600"></summary>
 
  Pick a hand to play 
@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 | Rock | Paper | Scissors |
 |:----:|:-----:|:----------:|
 | <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/images/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/images/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/3"> <img src="/images/scissors.png"  width=40% height=40%> </a> |
+-->
 
  <!-- List of Projects -->
 </details>
