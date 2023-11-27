@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
     <div align="right" style="padding-right: 20px;">
      <div align="left" style="padding-right: 20px;">
       <h4> &nbsp; Mobile Trip Planning App Project </h4>
-    <p> &nbsp; A 4 month project with a group of 5, where we added new features to bring the app to full functionality. I &nbsp; &nbsp;  implemented a dynamicly populated list of places choosen by the user to create a trip planner and later &nbsp; &nbsp; &nbsp;  converted it to a drag and drop list. Additionaly, I added the ability to upload and download the trip in a &nbsp;&nbsp;svg map with corditinates and lines to represent the total path of the users trip. For the back-end, I helped &nbsp;&nbsp;optimize the trip distance, and sped up client/server communication to under 1 second by &nbsp;&nbsp;troubleshooting with Postman. (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation)
+    <p> &nbsp; A 4 month project with a group of 5, where we added new features to bring the app to full functionality. I implemented a dynamicly populated list of places choosen by the user to create a trip planner and later converted it to a drag and drop list. Additionaly, I added the ability to upload and download the trip in a svg map with corditinates and lines to represent the total path of the users trip. For the back-end, I helped optimize the trip distance, and sped up client/server communication to under 1 second by troubleshooting with Postman. (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation)
        </p>
      </div>
    </div>
