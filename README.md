@@ -9,7 +9,16 @@ You can click the Preview link to take a look at your changes.
 # Jennifer <img align="right" width="150" height="150" src="/images/octocat-rotate.gif"> 
 
 <h3>About Me:</h3>
-<div>🎓 Studying Computer Science at &nbsp <img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="425"></div>
+
+<div style="display: flex; align-items: right;">
+    <div style="flex: 0 0 40%;">
+        <img style="width: 4%; height: auto;" alt="CSU" src="https://brand.colostate.edu/wp-content/uploads/sites/47/2019/01/CSU-Ram-357-617.png">
+    </div>
+    <div style="flex: 1;">
+        <span> Undergraduate student at Colorado State University studying Computer Science</span>
+    </div>
+</div>
+
 
 
 <!-- Rock paper scissors game 
@@ -25,6 +34,9 @@ You can click the Preview link to take a look at your changes.
  <!-- List of Projects -->
 </details>
  <details><summary><h3> List of Projects </h3></summary>
+ <!-- Tree UI/ -->
+ <h4>In progress</h4> LLM Model Comparison between Mistral-7B-v0.1 and finetuned Zephyr-7b-beta
+  
  <!-- github game -->
  <div>
   <img src="/images/game_screenshot.png" align="right" width=40% height=40%><h4> Github Game </h4> A personal project inspired by a quick youtube video ( https://www.youtube.com/watch?v=0TTpXDYnAg8), This was a difficult project to recreate becasue the starter code did not work and there were huge gaps in the implementation. After building a simple functional web app hosted by PythonAnywhere, I upped the ante and refactored the code to meet the object oriented paradigm, and included custom html pages to show what hand the player chose v.s. the computer's. I was also fusturated with running into games that didn't work, so implemented a custom Github badge using Shields.io that would let the player know that this game was up and working. To do this, the app additionaly updates a json that the badge can refer to every hour and display on my Github readme. (Python, CSS, HTML, JSON, PythonAnywhere, Shields.io)
@@ -39,11 +51,12 @@ You can click the Preview link to take a look at your changes.
  </div>
   <!-- Trip Planning App Project -->
   <div>
-   <img src="/images/trip-planner.gif" align="left" width=25% height=25%>
-    <div align="right">
-     <div align="left">
-      <h4> Mobile Trip Planning App Project </h4>
-      A 4 month project with a group of 5, where we added new features to bring the app to full functionality. I implemented a dynamicly populated list of places choosen by the user to create a trip planner and later converted it to a drag and drop list. Additionaly, I added the ability to upload and download the trip in a svg map with corditinates and lines to represent the total path of the users trip. For the back-end, I helped optimize the trip distance, and sped up client/server communication to under 1 second by troubleshooting with Postman . (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation, Postman)
+   <img src="/images/trip-planner.gif" align="left" width=25% height=25% style="float: left; margin-right: 20px;"">
+    <div align="right" style="padding-right: 20px;">
+     <div align="left" style="padding-right: 20px;">
+      <h4> &nbsp; Mobile Trip Planning App Project </h4>
+    <p> &nbsp; A 4 month project with a group of 5, where we added new features to bring the app to full functionality. I &nbsp; &nbsp;  implemented a dynamicly populated list of places choosen by the user to create a trip planner and later &nbsp; &nbsp; &nbsp;  converted it to a drag and drop list. Additionaly, I added the ability to upload and download the trip in a &nbsp;&nbsp;svg map with corditinates and lines to represent the total path of the users trip. For the back-end, I helped &nbsp;&nbsp;optimize the trip distance, and sped up client/server communication to under 1 second by &nbsp;&nbsp;troubleshooting with Postman. (Java, JavaScript, JUnit, Jest, Maven, Postman, React, Geolocation)
+       </p>
      </div>
    </div>
   </div>
