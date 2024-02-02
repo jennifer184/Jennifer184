@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3>About Me:</h3>
 
 - Aspiring Software Developer 
-- Recent Undergraduate student at Colorado State University studying Computer Science
+- Bachelor's in Computer Science at Colorado State University
 
 
 <!-- Rock paper scissors game 
