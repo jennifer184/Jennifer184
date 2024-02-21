@@ -73,7 +73,7 @@ One notable observation from my analysis was the inconsistency in Pynguin's abil
 <div>
  <img src="/images/pet_feeder.png" align="right" width=40% height=40%>
  <h4>IoT Remote Cat Feeder with Webcam using Raspberry Pi</h4>
- A personal project to expand my newly learned Python programing skills, save me some time, and ensure consistent feeding times with the correct amounts for my litters and mama cats. I added a 
+ A personal project to expand my newly learned Python programing skills, save me some time, and ensure consistent feeding times with the correct amounts. I also added a 
  remote feeding feature paired with a webcam to help me decide on the optimal amount of 
  food to deliver them. This little project also allowed my to go on small trip while not having 
  to board them or hire anyone since I could monitor their food, water, litter, and make 
