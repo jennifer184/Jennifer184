@@ -28,6 +28,13 @@ You can click the Preview link to take a look at your changes.
 </details>
  <details><summary><h3> List of Projects </h3></summary>
 
+ <!-- Web Design Revamp for Local Startup -->
+ <div align="right">
+  <img src="/images/ascendSideBySide.png" align="left" width=60% height="315px">
+  <div align="left">
+  <h4> Web Design Revamp for Local Startup </h4>
+  In this design, my primary goal was to highlight the brand and customized logo (not designed by me) tailored specifically for the website. Additionally, I focused on improving user-friendliness by adjusting styling and adding new features. One notable strategy I suggested to expand the business's clientele was to offer webinars providing valuable education or training. Furthermore, the owner expressed interest in enhancing the website's visibility through search engine optimization. To address this, I recommended narrowing the target audience to the local area by incorporating the city name where they are located.
+
 <!-- Testing Project2 -->
  <div align="right">
   <img src="/images/pynguin1.png" align="left" width=60% height="315px">
