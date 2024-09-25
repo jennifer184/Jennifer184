@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3>About Me:</h3>
 
-- Aspiring Software Developer 
+- Aspiring Computer Scientist
+- Working on a Masters in Computer Science at University of Tennessee
 - Bachelor's in Computer Science at Colorado State University
 
 
@@ -27,6 +28,13 @@ You can click the Preview link to take a look at your changes.
  <!-- List of Projects -->
 </details>
  <details><summary><h3> List of Projects </h3></summary>
+
+ <!-- UI Wrapper over Hugging Face API AI Models -->
+ <div align="right">
+  <img src="/images/tree_ui.png" align="left" width=60% height="315px">
+  <div align="left">
+  <h4> The start of a project </h4>
+  In this project I wanted to test the response of several leading AI models. The idea was to develop a tailored-made test to compare Generative AI performance prior to settling on one for a particular task. 
 
  <!-- Web Design Revamp for Local Startup -->
  <div align="right">
