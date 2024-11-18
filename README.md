@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3>About Me:</h3>
 
 - Aspiring Computer Scientist
-- Working on a Masters in Computer Science at University of Tennessee
+- Working on a Masters in Computer Science at the University of Tennessee
 - Bachelor's in Computer Science at Colorado State University
 
 
